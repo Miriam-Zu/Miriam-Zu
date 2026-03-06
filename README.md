@@ -44,7 +44,7 @@ Machine learning over peripheral blood T-cell receptor repertoires to detect ova
 - **Model:** Gradient boosting  
 - **Result:**  Average AUC = 0.98 on multiple splits of the data
 
-#### [TCR Repertoire Composition in Ovarian Cancer](https://github.com/Miriam-Zu/)
+#### [TCR Repertoire Composition in Ovarian Cancer](https://github.com/Miriam-Zu/Ovarian-DataDescriptor)
 Characterizing compositional shifts in the human T-cell receptor repertoire in ovarian cancer vs. healthy donors: a public annotated dataset for the community.  
 - **Journal:** *Scientific Data* (2025)  
 - **Data:** Publicly released annotated TCR dataset    
