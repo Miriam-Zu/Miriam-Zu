@@ -57,7 +57,7 @@ Extending the immune-repertoire liquid biopsy approach to breast cancer detectio
 
 ---
 
-### 🤝 Connect
+### Connect
 
 - [mzuckerbrot@gmail.com](mailto:mzuckerbrot@gmail.com)  
 -  [LinkedIn](https://www.linkedin.com/in/miriam-zuckerbrot)  
